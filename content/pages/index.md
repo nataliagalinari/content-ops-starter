@@ -2,6 +2,37 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Transforme seus negócios através do Tráfego Pago.
+      color: text-dark
+      type: TitleBlock
+    subtitle: O que é tráfego pago?
+    text: >
+      Tráfego pago é uma estratégia do marketing digital que consiste em
+      investir dinheiro em anúncios, com o intuito de gerar leads qualificados,
+      aumentar as visitas no seu site e suas vendas.
+    actions: []
+    media:
+      url: /images/main-hero.svg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,37 +150,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Transforme seus negócios através do Tráfego Pago.
-      color: text-dark
-      type: TitleBlock
-    subtitle: O que é tráfego pago?
-    text: >
-      Tráfego pago é uma estratégia do marketing digital que consiste em
-      investir dinheiro em anúncios, com o intuito de gerar leads qualificados,
-      aumentar as visitas no seu site e suas vendas.
-    actions: []
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
