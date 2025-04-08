@@ -394,6 +394,16 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: '/https://www.instagram.com/galinarinatalia/'
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
