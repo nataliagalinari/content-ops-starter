@@ -197,7 +197,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Quem sou eu?
+      text: Natália Galinari
       color: text-dark
       type: TitleBlock
     subtitle: ''
