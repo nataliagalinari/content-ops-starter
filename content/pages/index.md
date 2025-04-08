@@ -12,16 +12,7 @@ sections:
       Tráfego pago é uma estratégia do marketing digital que consiste em
       investir dinheiro em anúncios, com o intuito de gerar leads qualificados,
       aumentar as visitas no seu site e suas vendas.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
