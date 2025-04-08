@@ -106,7 +106,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Seleção precisa de objetivos de campanhas
+        title: Seleção precisa de objetivos de campanhas.
         subtitle: ''
         text: ''
         image:
