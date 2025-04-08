@@ -54,7 +54,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Seleção precisa de objetivos de campanhas
+        title: >-
+          Criação de públicos e audiências altamente segmentadas e com grande
+          potencial de conversão.
         subtitle: ''
         text: ''
         image:
@@ -79,9 +81,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: >-
-          Criação de públicos e audiências altamente segmentadas e com grande
-          potencial de conversão.
+        title: Seleção precisa de objetivos de campanhas
         subtitle: ''
         text: ''
         image:
