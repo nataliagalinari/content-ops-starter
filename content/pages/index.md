@@ -72,7 +72,7 @@ sections:
         title: >-
           Criação de públicos e audiências altamente segmentadas e com grande
           potencial de conversão.
-        subtitle: Numbers Done
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
