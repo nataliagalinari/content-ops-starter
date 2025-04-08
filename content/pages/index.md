@@ -306,7 +306,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: '/https://www.instagram.com/galinarinatalia/'
+        url: 'https://www.instagram.com/galinarinatalia/'
         showIcon: true
         icon: instagram
         iconPosition: left
