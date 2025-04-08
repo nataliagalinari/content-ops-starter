@@ -74,7 +74,8 @@ sections:
       - type: FeaturedItem
         title: Elaboração de estratégias de tráfego pago
         subtitle: ''
-        text: ''
+        text: |
+          Elaboração de estratégias de tráfego pago.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
