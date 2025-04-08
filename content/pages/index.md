@@ -222,10 +222,6 @@ sections:
       url: /images/IMG_0067NataliaGalinariInsta.jpg
       altText: ''
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
