@@ -18,7 +18,7 @@
     "socialLinks": [
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "",
             "icon": "linkedin",
             "type": "Social"
         },
