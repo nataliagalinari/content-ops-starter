@@ -209,7 +209,7 @@ sections:
 
     actions:
       - label: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
