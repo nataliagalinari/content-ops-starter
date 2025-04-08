@@ -287,6 +287,16 @@ sections:
     type: GenericSection
     actions:
       - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: >-
+          /https://www.linkedin.com/in/nat%C3%A1lia-tostes-de-assis-galinari-2690911b3/
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
         label: Instagram
         altText: Instagram
         url: 'https://www.instagram.com/galinarinatalia/'
