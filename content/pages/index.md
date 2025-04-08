@@ -230,7 +230,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: ''
     items: []
     elementId: null
     variant: next-prev-nav
