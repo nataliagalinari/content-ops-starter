@@ -233,7 +233,7 @@ sections:
       type: TitleBlock
       text: '"Vencer sem correr riscos é triunfar sem glórias!"'
       color: text-dark
-    subtitle: ''
+    subtitle: Ayrton Senna
     items: []
     elementId: null
     variant: next-prev-nav
