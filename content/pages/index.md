@@ -201,9 +201,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Nascida no interior de Minas Gerais, mudou-se para Juiz de Fora para fazer
+      faculdade de Artes e Design e logo em seguida realizou uma Pós-graduação
+      em Comunicação e Marketing em Mídias Digitais. Atualmente, atua com
+      Tráfego Pago com o objetivo de transformar e impulsionar negócios.
+
     actions:
       - label: Get started
         url: /
