@@ -72,7 +72,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Elaboração de estratégias de tráfego pago
+        title: ''
         subtitle: ''
         text: |
           Elaboração de estratégias de tráfego pago.
