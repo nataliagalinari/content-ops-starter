@@ -13,15 +13,6 @@ sections:
       investir dinheiro em anúncios, com o intuito de gerar leads qualificados,
       aumentar as visitas no seu site e suas vendas.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
