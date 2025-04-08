@@ -207,14 +207,7 @@ sections:
       em Comunicação e Marketing em Mídias Digitais. Atualmente, atua com
       Tráfego Pago com o objetivo de transformar e impulsionar negócios.
 
-    actions:
-      - label: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/IMG_0067NataliaGalinariInsta.jpg
       altText: ''
