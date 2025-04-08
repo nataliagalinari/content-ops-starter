@@ -144,7 +144,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Criação de relatórios mensais para prestação de contas e resultados.
-        subtitle: Faster
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
