@@ -197,7 +197,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Business Consulting
+      text: Quem sou eu?
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
