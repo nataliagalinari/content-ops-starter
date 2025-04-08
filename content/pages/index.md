@@ -121,7 +121,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: Organização financeira de gastos com anúncios online.
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
