@@ -66,7 +66,7 @@ sections:
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Por quê contratar um gestor de tráfego?
       color: text-dark
       styles:
         self:
