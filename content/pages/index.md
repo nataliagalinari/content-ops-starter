@@ -231,7 +231,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: '"Vencer sem correr riscos é triunfar sem glórias!"'
       color: text-dark
     subtitle: ''
     items: []
