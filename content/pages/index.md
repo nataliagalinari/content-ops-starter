@@ -220,7 +220,7 @@ sections:
         type: Link
     media:
       url: /images/IMG_0067NataliaGalinariInsta.jpg
-      altText: Dope design preview
+      altText: ''
       type: ImageBlock
     badge:
       label: This is a badge
