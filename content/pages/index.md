@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: O que é tráfego pago?
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Tráfego pago é uma estratégia do marketing digital que consiste em
+      investir dinheiro em anúncios, com o intuito de gerar leads qualificados,
+      aumentar as visitas no seu site e suas vendas.
     actions:
       - label: Get started
         altText: ''
