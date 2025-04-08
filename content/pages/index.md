@@ -54,6 +54,32 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: Elaboração de estratégias de tráfego pago
+        subtitle: ''
+        text: ''
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          url: /images/icon1.svg
+          styles:
+            self:
+              borderRadius: x-large
+      - type: FeaturedItem
         title: >-
           Criação de públicos e audiências altamente segmentadas e com grande
           potencial de conversão.
@@ -80,32 +106,6 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-      - type: FeaturedItem
-        title: Elaboração de estratégias de tráfego pago
-        subtitle: ''
-        text: ''
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
       - type: FeaturedItem
         title: Seleção precisa de objetivos de campanhas
         subtitle: ''
