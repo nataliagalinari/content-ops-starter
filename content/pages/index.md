@@ -208,7 +208,7 @@ sections:
       Tráfego Pago com o objetivo de transformar e impulsionar negócios.
 
     actions:
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
