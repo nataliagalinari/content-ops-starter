@@ -53,7 +53,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Elaboração de estratégias de tráfego pago
+        title: Elaboração de estratégias de tráfego pago.
         subtitle: ''
         text: ''
         actions: []
