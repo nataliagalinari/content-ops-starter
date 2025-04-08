@@ -14,7 +14,6 @@ sections:
       aumentar as visitas no seu site e suas vendas.
     actions: []
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
